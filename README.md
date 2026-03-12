@@ -20,7 +20,7 @@ Frontend Mentor challenges help you improve your coding skills by building reali
 ### Links
 
 - [Solution URL](https://github.com/sascha-lr/odin-ft-fem-recipes)
-- [Live Site URL](https://sascha-lr.github.io/odin-ft-fem-recipes/)
+- [Live Site URL](https://sascha-lr.github.io/top-ft-fem-recipes/)
 
 ### Built with
 
